@@ -1,0 +1,16 @@
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\BirthdayCall.exe
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\BirthdayCall.deps.json
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\BirthdayCall.runtimeconfig.json
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\BirthdayCall.runtimeconfig.dev.json
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\BirthdayCall.dll
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\ref\BirthdayCall.dll
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\bin\Debug\net5.0\BirthdayCall.pdb
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.csproj.AssemblyReference.cache
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.AssemblyInfoInputs.cache
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.AssemblyInfo.cs
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.csproj.CoreCompileInputs.cache
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.dll
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\ref\BirthdayCall.dll
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.pdb
+C:\Users\Bor\Desktop\Birthday\BirthdayCall\obj\Debug\net5.0\BirthdayCall.genruntimeconfig.cache
